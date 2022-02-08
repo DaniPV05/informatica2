@@ -23,4 +23,4 @@ for(let i = 1; i <= nPisos; i++){
 }
 
 let contenedor = document.querySelector("#contenedor");
-contenedor.innerHTML = contenido;
+contenedor.innerHTML= contenido;
